@@ -18,6 +18,6 @@ This is a simple form created using HTML. It allows users to provide their perso
 
 ## How to Use
 
-1. Open the `index.html` file in your browser.
+1. Open the html file in your browser.
 2. Fill in the required fields: first name, last name, email, password, gender, favorite fruit, and message.
 3. Click the "Submit" button to send the form (currently, the form does not have server-side functionality, so it will not submit anywhere).
