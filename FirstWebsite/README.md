@@ -9,6 +9,13 @@ The website is built using the **HTML5** document structure, with the following 
 - **`<head>`** includes the page title and character set (`<meta charset="UTF-8">`).
 - **`<body>`** contains the main content of the page, organized into sections.
 
+  ## Features
+
+- **HTML5 Structure**: The website uses HTML5 structure, with clear use of headings, paragraphs, and lists.
+- **Navigation Menu**: Each page includes a navigation menu linking to the other pages.
+- **Lists and Forms**: The About, Services, and Contact pages make use of ordered and unordered lists to organize content. The Contact page includes a form for collecting user information.
+- **Images**: The Home page includes at least one image, with appropriate alt text for accessibility.
+
 ### Pages:
 1. **Home Page (index.html)**: 
    - Main header with a title (`<h1>`), describing the purpose of the website.
@@ -38,5 +45,6 @@ Each page contains a navigation menu at the top, linking to other pages on the w
 - **Services**
 - **Contact**
 
-## Example Directory Structure
+
+
 
