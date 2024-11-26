@@ -1,4 +1,4 @@
-# Webpage Project
+# Website Project
 
 This project involves creating a simple website using HTML5, which includes a homepage and at least three additional pages: **Home**, **About**, **Services**, and **Contact**. Each page follows the basic HTML5 structure and contains various elements such as headings, paragraphs, lists, images, and forms.
 
